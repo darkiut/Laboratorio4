@@ -56,6 +56,7 @@ fun MiBotonFlotante() {
             imageVector = androidx.compose.material.icons.Icons.Default.Add,
             contentDescription = "Agregar"
         )
+        // Modificación: Botón actualizado
     }
 }
 // Componente 2 del Laboratorio anterior
