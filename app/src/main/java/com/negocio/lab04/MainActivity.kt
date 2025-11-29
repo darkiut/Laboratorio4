@@ -65,4 +65,5 @@ fun MiInterruptor() {
         checked = true,
         onCheckedChange = { }
     )
+    // Componente 2 modificado en main
 }
