@@ -58,3 +58,11 @@ fun MiBotonFlotante() {
         )
     }
 }
+// Componente 2 del Laboratorio anterior
+@Composable
+fun MiInterruptor() {
+    androidx.compose.material3.Switch(
+        checked = true,
+        onCheckedChange = { }
+    )
+}
